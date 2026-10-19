@@ -1,0 +1,23 @@
+# Local state and build output must never be committed.
+/dist/
+/artifacts/
+/preview/
+/private/
+/config.json*
+/categories.json
+/Shortcuts/
+/Icons/
+/Backups/
+/TestResults/
+*.log
+*.log.previous
+*.pdb
+*.user
+*.suo
+*.tmp
+*.bak
+.vs/
+bin/
+obj/
+Thumbs.db
+Desktop.ini

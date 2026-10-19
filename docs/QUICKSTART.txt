@@ -1,0 +1,26 @@
+DesktopFolders / 桌面分类
+需要时出现，平时让出桌面。
+
+运行要求：Windows x64，.NET Framework 4.8 或更高版本。
+首次公开测试版主要在 Windows 11 验证。
+
+快速使用
+1. 完整解压发布 ZIP 到可写目录。
+2. 双击 DesktopFolders.exe。
+3. 点击桌面空白处，展开所有分类。
+4. 移入窗口显示卡片背景和顶部管理；点击分类，再点击程序。
+5. 移出窗口 3 秒后，界面用约 0.3 秒渐隐。
+
+右键托盘：显示、管理、切换常驻显示或退出。
+初次运行复制桌面快捷方式并按名称规则分类，不移动原文件。
+
+可选安装
+双击 Install.cmd，安装到当前用户目录并创建桌面和开始菜单入口。
+自定义目录或开机启动：
+  .\Install.ps1 -InstallDirectory 'D:\Apps\DesktopFolders' -StartWithWindows
+
+更新前先从托盘退出。安装脚本保留现有配置和 Shortcuts 文件夹。
+数据保存在程序目录。备份时保留整个目录；快捷方式对应的软件仍须安装。
+
+项目与详细文档：https://github.com/cc742768953-bit/DesktopFolders
+MIT License，见 LICENSE。
