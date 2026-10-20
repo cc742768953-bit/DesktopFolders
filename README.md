@@ -15,6 +15,18 @@ A minimal Windows desktop shortcut organizer with transparent groups, click-to-r
 
 ## 看看效果
 
+### 约 25 秒，看看完整操作
+
+主屏实录，含中文配音和同步文字讲解：**点击空白展开 → 进入分类 → 点击空白返回 → 悬停加深 → 移开后三秒渐隐。** 播放时可点击扬声器图标开启配音。
+
+https://github.com/user-attachments/assets/e2dc83d9-c550-428e-b68e-0e50edd8d8cb
+
+[下载 1080p 原版 MP4（含配音）](https://github.com/cc742768953-bit/DesktopFolders/releases/download/v0.1.0-beta.1/DesktopFolders-demo-v03-1080p.mp4)
+
+视频中的点击与移动位置使用已标注的示意光标；界面、壁纸、悬停和渐隐效果来自主屏实录。悬停段放慢展示，并附移入前后的真实画面对比。
+
+### 界面截图
+
 ![桌面分类主界面：悬停时显示深色卡片和顶部操作](docs/images/overview.png)
 
 ![展开分类后的快捷方式界面](docs/images/category.png)
