@@ -27,11 +27,13 @@ https://github.com/user-attachments/assets/e2dc83d9-c550-428e-b68e-0e50edd8d8cb
 
 ### 界面截图
 
-![桌面分类主界面：悬停时显示深色卡片和顶部操作](docs/images/overview.png)
+![真实桌面的分类总览：蓝莓壁纸、深色分类卡片与顶部操作栏](docs/images/overview.png)
 
-![展开分类后的快捷方式界面](docs/images/category.png)
+![实际展开办公与沟通分类：飞书、Anki、Obsidian、WPS Office 与微信快捷方式](docs/images/category.png)
 
-截图来自真实 WPF 界面，使用 Windows 内置工具、示例文件和演示背景。正常使用时窗口背景透明，会显示你自己的桌面壁纸。
+![相同位置与尺度的悬停对比：平时透明，移入后显示深色背景和顶部操作](docs/images/hover-comparison.png)
+
+以上画面取自本机主显示器的原始录屏，保留实际分类、软件图标和蓝莓壁纸；仅做裁切、等比缩放、外框与说明排版。悬停对比采用相同裁切范围。正常使用时，透明窗口会显示你自己的桌面壁纸。
 
 ## 下载与开始使用
 
@@ -130,4 +132,4 @@ https://github.com/user-attachments/assets/e2dc83d9-c550-428e-b68e-0e50edd8d8cb
 
 本项目采用 [MIT License](LICENSE)。桌面分类的交互探索受到 Seelen UI / Orbit Folders 等桌面整理工具的启发；发布内容为独立 C# 实现，不包含原组件代码、主题、二进制或分析材料。
 
-蓝紫玻璃图标由 AI 辅助生成，托盘简化图标由代码绘制，作为本项目资源提供。演示图中的 Windows 图标来自截图环境；项目不单独分发这些系统图标。
+蓝紫玻璃图标由 AI 辅助生成，托盘简化图标由代码绘制，作为本项目资源提供。截图中的第三方软件图标与壁纸来自实际运行环境，相关权利归各自权利人所有；项目不将其作为独立素材分发。
